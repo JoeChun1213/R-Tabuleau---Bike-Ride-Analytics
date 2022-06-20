@@ -1,5 +1,5 @@
 # Objectives
-To provide an data analytic view for the bike riding companies and to extract the type of riders, duration of the ride and on the whole ride summary on weekdays and weekends. This analysis is carried out in order to maximize the number of annual memberships. Therefore, it is necessary to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we try to derive new marketing strategy to improve the bike business with compelling data insights and professional data visualizations.
+To provide a data analytic view for the bike riding companies and to extract the type of riders, duration of the ride and on the whole ride summary on weekdays and weekends. This analysis is carried out in order to maximize the number of annual memberships. Therefore, it is necessary to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we try to derive new marketing strategy to improve the bike business with compelling data insights and professional data visualizations.
 
 
 # Analysis Platform
