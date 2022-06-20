@@ -28,8 +28,8 @@ From the data, we observed the following for the years 2020 and 2021
 
 1. The ride length of the causal members is larger than the members, which is surprising.
 2. Both causal and members use the bike more on the weekends than  the weekdays. Among the weekdays, Wednesday shows the maximum ride length 
-3. There exits a pattern of ride among the riders in terms of month. In fact, during the summers of 2020, 2021 the ride length are at their peak.
-4. There exits a preference among the riders the station from where they start and end the ride. This is very useful for recommdation to place more bikes in the most often used stations to improve the business. 
+3. There exists a pattern of ride among the riders in terms of month. In fact, during the summers of 2020, 2021 the ride length are at their peak.
+4. There exists a preference among the riders the station from where they start and end the ride. This is very useful for recommdation to place more bikes in the most often used stations to improve the business. 
 
 ### **Figure. The Tableau Dashboard of the finding from the data **
 ![](Fig.gif) 
